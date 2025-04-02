@@ -11,12 +11,12 @@ class Atendimento {
 
         const validacoes = [
             {
-                nome: data,
+                nome: 'data',
                 valido: dataValida,
                 mensagem: 'Data deve ser maior ou igual a data atual'
             },
             {
-                nome: cliente,
+                nome: 'cliente',
                 valido: clienteValido,
                 mensagem: 'Cliente deve ter pelo menos tres caracteres'
             }
