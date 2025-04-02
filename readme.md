@@ -11,4 +11,4 @@ Essa API, cria no banco de dados o atendimento do serviço, com a seguinte estru
 ## Como usar ?
 Esta api ela comunica diretamente com uma requisição post, onde são enviados os dados da seguinte maneira (Exemplo usando Postman):
 
-![Post Request]("./imagens/postRequest.gif")
+![Post Request]("imagens/postRequest.gif")
