@@ -1,6 +1,6 @@
  # API de Pet-shop com EXPRESS
 
-## Essa uma API construída em EXPRESS com a utilização do node e demais módulos.
+## API CRUD de serviços (Pet-shop exemplo)
 
 Essa API, cria no banco de dados o atendimento do serviço, com a seguinte estrutura: 
 
