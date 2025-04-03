@@ -1,4 +1,4 @@
-# API de Pet-shop com EXPRESS
+ # API de Pet-shop com EXPRESS
 
 ## Essa uma API construída em EXPRESS com a utilização do node e demais módulos.
 
@@ -12,3 +12,4 @@ Essa API, cria no banco de dados o atendimento do serviço, com a seguinte estru
 Esta api ela comunica diretamente com uma requisição post, onde são enviados os dados da seguinte maneira (Exemplo usando Postman):
 
 ![postRequest](https://github.com/user-attachments/assets/9a9c917c-78b8-4c92-a425-4347567200e8)
+<img src="https://github.com/user-attachments/assets/9a9c917c-78b8-4c92-a425-4347567200e8" width="300" />
